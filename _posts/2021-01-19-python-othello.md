@@ -85,7 +85,7 @@ class Button:  # 버튼
 
 ## 2. 게임화면
 
-![123](https://user-images.githubusercontent.com/68958979/105005623-ec2ed680-5a78-11eb-936a-ed2f3a7b7005.png)
+![123123](https://user-images.githubusercontent.com/68958979/105031834-358f1e00-5a99-11eb-9031-10e79fc22140.png)
 
 본 게임에 들어갔을 때의 초기화면이다.
 
