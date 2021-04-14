@@ -256,7 +256,27 @@ void draw(int* arr, int idx, int length)
 
 <br><br><br>
 
-# III. 마무리
+# III. 결과
+
+## BubbleSort
+![bubblesort](https://user-images.githubusercontent.com/68958979/114733386-3ecd1580-9d7e-11eb-98eb-397aadf6fa48.gif)
+
+## SelectSort
+![selectsort](https://user-images.githubusercontent.com/68958979/114733388-3ffe4280-9d7e-11eb-9e4c-01309ce8bce4.gif)
+
+## InsertSort
+![insertsort](https://user-images.githubusercontent.com/68958979/114733392-4096d900-9d7e-11eb-8a46-a15734010803.gif)
+
+## MergeSort
+![mergesort](https://user-images.githubusercontent.com/68958979/114733395-4096d900-9d7e-11eb-9887-351cf3de0f7e.gif)
+
+## HeapSort
+![heapsort](https://user-images.githubusercontent.com/68958979/114733397-412f6f80-9d7e-11eb-9540-8763ce5b007f.gif)
+
+## QuickSort
+![quicksort](https://user-images.githubusercontent.com/68958979/114733399-412f6f80-9d7e-11eb-9fec-32c3d5eb7786.gif)
+
+# VI. 마무리
 
 단순히 글과 그림만으로 이해하는 것 보다 프로그램을 통해서 만들어보고 실시간으로 과정을 확인하는 것이 훨씬 이해에 도움이 되었다.  
 
