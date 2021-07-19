@@ -1,5 +1,5 @@
 ---
-title: "[Spring JPA] 프로젝트 중 게시판 쿼리 이슈"
+title: "[Spring JPA] 게시판 쿼리 이슈 (N+1)"
 
 categories:
   - TIL

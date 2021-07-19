@@ -13,7 +13,7 @@ toc_sticky: true
 
 # I. 개요
 
-`[Spring JPA]  프로젝트 중 게시판 쿼리 이슈`를 해결하던 도중 굉장히 잘못된 지식을 갖고 있다는 것을 알게 되었다.  
+[[Spring JPA]  프로젝트 중 게시판 쿼리 이슈](https://mighty96.github.io/til/post-query-issue/)를 해결하던 도중 굉장히 잘못된 지식을 갖고 있다는 것을 알게 되었다.  
 내용을 정리하는 편이 기억에 남을 것 같아서 글로 남기려 한다.
 
 <br><br><br>
