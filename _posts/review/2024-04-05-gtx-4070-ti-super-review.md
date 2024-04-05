@@ -1,5 +1,5 @@
 ---
-title: "GIGABYTE GTX 4070 Ti Super 후기"
+title: "GIGABYTE GTX 4070 Ti Super GAMING OC D6X 16GB 후기"
 
 categories:
   - Review
@@ -30,4 +30,4 @@ toc_sticky: true
 백플레이트도 튼튼하고 안정적이라는 느낌이 바로 다가온다.
 
 현재 CPU만을 남겨두고 조립을 하지 못하고 있는 상태인데,
-하루빨리 도착해서 GIGABYTE GTX 4070Ti Super제품을 시연해보고 싶은 생각이다!
+하루빨리 도착해서 GIGABYTE GTX 4070Ti Super GAMING OC D6X 16GB제품을 시연해보고 싶은 생각이다!
